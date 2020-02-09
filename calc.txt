@@ -1,0 +1,14 @@
+add(int x, int y)
+return pass
+
+sub(int x, int y)
+return pass
+
+multiply(int x, int y)
+return pass
+
+divide(int x, int y)
+return pass
+
+expo(int x, int y)
+return pass
