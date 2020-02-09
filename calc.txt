@@ -1,5 +1,5 @@
 add(int x, int y)
-return pass
+return x+y
 
 sub(int x, int y)
 return x-y
