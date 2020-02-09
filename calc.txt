@@ -2,7 +2,7 @@ add(int x, int y)
 return pass
 
 sub(int x, int y)
-return pass
+return x-y
 
 multiply(int x, int y)
 return pass
