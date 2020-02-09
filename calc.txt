@@ -8,7 +8,7 @@ multiply(int x, int y)
 return pass
 
 divide(int x, int y)
-return pass
+return x/y
 
 expo(int x, int y)
 return pass
