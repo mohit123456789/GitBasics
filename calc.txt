@@ -5,7 +5,7 @@ sub(int x, int y)
 return x-y
 
 multiply(int x, int y)
-return pass
+return x into y
 
 divide(int x, int y)
 return x/y
